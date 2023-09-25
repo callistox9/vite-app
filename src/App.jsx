@@ -1,6 +1,6 @@
 import React from "react";
-import NavBar from "./NavBar";
-import Main from "./Main";
+import NavBar from "./NavBar.jsx";
+import Main from "./Main.jsx";
 
 export default function page (){
     <div className="container">
